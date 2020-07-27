@@ -1,0 +1,9 @@
+# All values ​​are given in percent.
+# The width and height of the object is set as a percentage ofthe width and height of the playing area, respectively.
+# The diameter of the ball is given as a percentage of the width of the playing field.
+
+platform_width: 25
+platform_height: 5
+ball_diameter: 5
+user_life_diameter: 3
+
